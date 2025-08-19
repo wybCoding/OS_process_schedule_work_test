@@ -1,0 +1,2002 @@
+启动工作
+start Client 0 at 0
+Customer 0 is selecting item
+start Client 1 at 4.627099219708858
+Customer 1 is selecting item
+Customer 1 is checking out
+cost time: 57.694239740901736
+start Client 2 at 74.7245709523537
+Customer 2 is selecting item
+start Client 3 at 168.111418416506
+Customer 3 is selecting item
+Customer 0 is checking out
+start Client 4 at 190.01457063573164
+Customer 4 is selecting item
+cost time: 212.21213882575833
+start Client 5 at 214.32966755331915
+Customer 5 is selecting item
+Customer 2 is checking out
+cost time: 189.73419815626153
+start Client 6 at 277.6021881568722
+Customer 6 is selecting item
+start Client 7 at 291.8451998237559
+Customer 7 is selecting item
+start Client 8 at 362.53802859221764
+Customer 8 is selecting item
+start Client 9 at 370.91919094843047
+Customer 9 is selecting item
+start Client 10 at 397.24817266376704
+Customer 10 is selecting item
+Customer 9 is checking out
+cost time: 90.10885579778181
+start Client 11 at 462.2788464682638
+Customer 11 is selecting item
+Customer 4 is checking out
+cost time: 326.5569500475216
+Customer 8 is checking out
+start Client 12 at 546.6304729736848
+Customer 12 is selecting item
+cost time: 199.99190672645625
+Customer 6 is checking out
+Customer 12 is checking out
+Customer 3 is checking out
+cost time: 322.59939428831603
+cost time: 67.11062617841719
+cost time: 452.5956815789848
+Customer 11 is checking out
+start Client 13 at 628.8480976307915
+Customer 13 is selecting item
+Customer 13 is checking out
+start Client 14 at 640.1510882780871
+Customer 14 is selecting item
+Customer 5 is checking out
+cost time: 192.6494564160286
+cost time: 40.75675072736249
+cost time: 463.09988022918094
+start Client 15 at 690.9044322301289
+Customer 15 is selecting item
+Customer 15 is checking out
+start Client 16 at 770.9176799698889
+Customer 16 is selecting item
+cost time: 87.49251196029059
+Customer 16 is checking out
+Customer 7 is checking out
+cost time: 78.59727486434701
+start Client 17 at 850.0582308613479
+Customer 17 is selecting item
+cost time: 570.8793872029157
+start Client 18 at 988.4569864612553
+Customer 18 is selecting item
+start Client 19 at 1013.7419853800774
+Customer 19 is selecting item
+start Client 20 at 1066.3864462415727
+Customer 20 is selecting item
+Customer 17 is checking out
+Customer 10 is checking out
+cost time: 250.25786153073648
+start Client 21 at 1103.73394016114
+Customer 21 is selecting item
+cost time: 732.7959400232587
+Customer 18 is checking out
+cost time: 179.7752254525002
+Customer 19 is checking out
+cost time: 229.45377402521456
+start Client 22 at 1284.7179805445173
+Customer 22 is selecting item
+start Client 23 at 1313.9854772249123
+Customer 23 is selecting item
+Customer 21 is checking out
+cost time: 241.46336006212573
+Customer 20 is checking out
+start Client 24 at 1365.5548281937765
+Customer 24 is selecting item
+start Client 25 at 1378.4182511210186
+Customer 25 is selecting item
+cost time: 322.2457185246519
+start Client 26 at 1395.9467732347816
+Customer 26 is selecting item
+start Client 27 at 1398.2805210764818
+Customer 27 is selecting item
+Customer 24 is checking out
+Customer 26 is checking out
+cost time: 62.98355733590233
+cost time: 40.4963854989046
+start Client 28 at 1446.4264286062134
+Customer 28 is selecting item
+Customer 22 is checking out
+cost time: 232.03976267739608
+start Client 29 at 1577.5539490824544
+Customer 29 is selecting item
+start Client 30 at 1593.4928071911818
+Customer 30 is selecting item
+start Client 31 at 1615.9023137438078
+Customer 31 is selecting item
+Customer 30 is checking out
+start Client 32 at 1677.9141996969418
+Customer 32 is selecting item
+Customer 28 is checking out
+cost time: 98.24889761364761
+start Client 33 at 1695.1150353217604
+Customer 33 is selecting item
+cost time: 264.6530637970625
+start Client 34 at 1712.2297013940367
+Customer 34 is selecting item
+Customer 31 is checking out
+cost time: 133.30788730509153
+Customer 32 is checking out
+cost time: 122.82660332012392
+Customer 34 is checking out
+Customer 23 is checking out
+cost time: 122.81080300469989
+cost time: 528.6846323610093
+Customer 33 is checking out
+Customer 25 is checking out
+cost time: 224.96887743455704
+cost time: 557.6531904290234
+Customer 14 is checking out
+Customer 27 is checking out
+start Client 35 at 1957.4427947459853
+Customer 35 is selecting item
+cost time: 1339.8369255673601
+cost time: 582.742901116108
+start Client 36 at 2004.2664138966074
+Customer 36 is selecting item
+Customer 35 is checking out
+start Client 37 at 2097.4423910158785
+Customer 37 is selecting item
+start Client 38 at 2099.195154740343
+Customer 38 is selecting item
+cost time: 142.0534021656681
+start Client 39 at 2107.688335537951
+Customer 39 is selecting item
+Customer 39 is checking out
+Customer 29 is checking out
+start Client 40 at 2148.889470939749
+Customer 40 is selecting item
+cost time: 44.77383655659469
+cost time: 585.2517669493345
+Customer 38 is checking out
+start Client 41 at 2171.630047062269
+Customer 41 is selecting item
+cost time: 95.29712914977108
+start Client 42 at 2198.728305849056
+Customer 42 is selecting item
+start Client 43 at 2294.776493362858
+Customer 43 is selecting item
+Customer 37 is checking out
+Customer 36 is checking out
+start Client 44 at 2345.135045760331
+Customer 44 is selecting item
+cost time: 251.08054284897526
+Customer 42 is checking out
+cost time: 360.4209874155222
+start Client 45 at 2369.5395171749255
+Customer 45 is selecting item
+start Client 46 at 2370.6424510913866
+Customer 46 is selecting item
+start Client 47 at 2371.3600374317807
+Customer 47 is selecting item
+Customer 40 is checking out
+cost time: 193.47674936773092
+Customer 43 is checking out
+cost time: 264.30258584255125
+cost time: 129.47131753484837
+Customer 47 is checking out
+cost time: 98.60091586991848
+Customer 44 is checking out
+Customer 41 is checking out
+cost time: 195.23383940092617
+cost time: 386.8486319492622
+start Client 48 at 2565.652273441257
+Customer 48 is selecting item
+Customer 46 is checking out
+cost time: 278.14265775599824
+Customer 45 is checking out
+cost time: 337.2916719382715
+Customer 48 is checking out
+cost time: 195.52247645783336
+start Client 49 at 2901.4232766392247
+Customer 49 is selecting item
+start Client 50 at 2905.403707611227
+Customer 50 is selecting item
+start Client 51 at 2942.16550046812
+Customer 51 is selecting item
+Customer 51 is checking out
+cost time: 38.106482473624965
+Customer 49 is checking out
+Customer 50 is checking out
+cost time: 130.0064755106646
+start Client 52 at 3031.5891188931614
+Customer 52 is selecting item
+start Client 53 at 3042.4347577271515
+Customer 53 is selecting item
+cost time: 155.21257927596434
+Customer 52 is checking out
+cost time: 97.45497715910142
+start Client 54 at 3231.8608278127845
+Customer 54 is selecting item
+Customer 54 is checking out
+Customer 53 is checking out
+cost time: 172.11810014803814
+cost time: 372.0122695969253
+start Client 55 at 3621.0071710966627
+Customer 55 is selecting item
+start Client 56 at 3661.7860786759293
+Customer 56 is selecting item
+start Client 57 at 3679.9008246087724
+Customer 57 is selecting item
+start Client 58 at 3831.0947542420217
+Customer 58 is selecting item
+start Client 59 at 3839.876191784735
+Customer 59 is selecting item
+start Client 60 at 3862.437092212425
+Customer 60 is selecting item
+Customer 60 is checking out
+cost time: 76.98327537388423
+Customer 56 is checking out
+cost time: 330.5766692945035
+start Client 61 at 4019.508289990203
+Customer 61 is selecting item
+start Client 62 at 4103.496226401504
+Customer 62 is selecting item
+start Client 63 at 4176.191916815747
+Customer 63 is selecting item
+Customer 57 is checking out
+start Client 64 at 4188.842071092616
+Customer 64 is selecting item
+Customer 64 is checking out
+start Client 65 at 4201.624418526745
+Customer 65 is selecting item
+Customer 63 is checking out
+start Client 66 at 4202.275968394549
+Customer 66 is selecting item
+start Client 67 at 4208.737761936358
+Customer 67 is selecting item
+cost time: 536.6996988825158
+Customer 66 is checking out
+cost time: 35.26781513451806
+Customer 62 is checking out
+cost time: 55.54625418829437
+cost time: 44.32455509673946
+cost time: 152.37929468720267
+Customer 61 is checking out
+cost time: 270.4845581615532
+start Client 68 at 4332.857216141168
+Customer 68 is selecting item
+start Client 69 at 4415.543415875464
+Customer 69 is selecting item
+Customer 69 is checking out
+cost time: 58.126071714921636
+start Client 70 at 4487.493095751758
+Customer 70 is selecting item
+Customer 58 is checking out
+cost time: 728.687650118296
+Customer 68 is checking out
+Customer 67 is checking out
+cost time: 264.7225246702146
+cost time: 418.5492990563762
+Customer 55 is checking out
+cost time: 1067.6217392560407
+start Client 71 at 4733.441825413308
+Customer 71 is selecting item
+start Client 72 at 4752.902184598388
+Customer 72 is selecting item
+start Client 73 at 4755.138292826022
+Customer 73 is selecting item
+start Client 74 at 4762.753432228349
+Customer 74 is selecting item
+Customer 73 is checking out
+start Client 75 at 4811.717590076361
+Customer 75 is selecting item
+Customer 65 is checking out
+cost time: 78.07532842578439
+cost time: 650.1069065706251
+Customer 71 is checking out
+cost time: 149.72495587547473
+start Client 76 at 4898.267852016236
+Customer 76 is selecting item
+start Client 77 at 4905.656613861522
+Customer 77 is selecting item
+Customer 72 is checking out
+Customer 76 is checking out
+Customer 70 is checking out
+cost time: 246.87854309152317
+start Client 78 at 5002.168280799885
+Customer 78 is selecting item
+cost time: 119.37437100124316
+cost time: 539.3116555856041
+start Client 79 at 5113.513391111839
+Customer 79 is selecting item
+start Client 80 at 5157.956429610875
+Customer 80 is selecting item
+Customer 75 is checking out
+start Client 81 at 5207.785859119419
+Customer 81 is selecting item
+Customer 77 is checking out
+start Client 82 at 5221.657416164772
+Customer 82 is selecting item
+cost time: 422.41770365291086
+cost time: 334.1265971145531
+start Client 83 at 5244.187152064692
+Customer 83 is selecting item
+start Client 84 at 5252.143263046206
+Customer 84 is selecting item
+Customer 79 is checking out
+start Client 85 at 5317.652439569582
+Customer 85 is selecting item
+cost time: 204.89954113605472
+start Client 86 at 5320.548031966678
+Customer 86 is selecting item
+Customer 59 is checking out
+cost time: 1517.117464449375
+Customer 74 is checking out
+start Client 87 at 5381.656478882549
+Customer 87 is selecting item
+Customer 83 is checking out
+cost time: 638.4090896504395
+cost time: 168.78159024226898
+start Client 88 at 5427.37097999306
+Customer 88 is selecting item
+Customer 78 is checking out
+Customer 85 is checking out
+cost time: 467.5964344124732
+Customer 81 is checking out
+cost time: 160.86758107860896
+cost time: 293.5187748832095
+Customer 87 is checking out
+cost time: 150.03215410059875
+start Client 89 at 5537.704843584585
+Customer 89 is selecting item
+Customer 82 is checking out
+cost time: 348.1125292799252
+Customer 86 is checking out
+cost time: 330.56346802101143
+Customer 80 is checking out
+start Client 90 at 5663.403948226825
+Customer 90 is selecting item
+start Client 91 at 5690.281553831358
+Customer 91 is selecting item
+cost time: 533.3310020214294
+start Client 92 at 5737.14427592411
+Customer 92 is selecting item
+Customer 88 is checking out
+Customer 90 is checking out
+cost time: 360.5336642694592
+Customer 92 is checking out
+cost time: 147.04113601089557
+cost time: 87.65846770443022
+start Client 93 at 5825.050753319084
+Customer 93 is selecting item
+Customer 89 is checking out
+start Client 94 at 5881.702294424523
+Customer 94 is selecting item
+cost time: 348.57191818668616
+start Client 95 at 5934.658050285143
+Customer 95 is selecting item
+start Client 96 at 5958.3042691921555
+Customer 96 is selecting item
+Customer 96 is checking out
+Customer 91 is checking out
+Customer 93 is checking out
+start Client 97 at 5983.992202582416
+Customer 97 is selecting item
+start Client 98 at 5986.626422826433
+Customer 98 is selecting item
+cost time: 35.57006779008407
+cost time: 305.5499199744445
+start Client 99 at 5996.867069730326
+Customer 99 is selecting item
+cost time: 173.82545006546025
+Customer 84 is checking out
+start Client 100 at 6100.517968699901
+Customer 100 is selecting item
+cost time: 849.3042821014578
+start Client 101 at 6108.63494032348
+Customer 101 is selecting item
+start Client 102 at 6113.759016900808
+Customer 102 is selecting item
+start Client 103 at 6121.49612100323
+Customer 103 is selecting item
+Customer 97 is checking out
+Customer 95 is checking out
+Customer 99 is checking out
+cost time: 181.58707932592733
+cost time: 238.5898360825322
+start Client 104 at 6181.616099317032
+Customer 104 is selecting item
+Customer 103 is checking out
+cost time: 194.07442849825748
+start Client 105 at 6214.871833337266
+Customer 105 is selecting item
+cost time: 93.65553019829713
+Customer 105 is checking out
+Customer 100 is checking out
+cost time: 40.7498436107544
+start Client 106 at 6265.884000725521
+Customer 106 is selecting item
+Customer 98 is checking out
+cost time: 183.82174374497936
+cost time: 313.0242492259804
+Customer 102 is checking out
+cost time: 278.5161341275616
+start Client 107 at 6403.298608381036
+Customer 107 is selecting item
+Customer 107 is checking out
+Customer 94 is checking out
+start Client 108 at 6446.834601670054
+Customer 108 is selecting item
+cost time: 56.69852423562861
+start Client 109 at 6467.124531514292
+Customer 109 is selecting item
+Customer 106 is checking out
+cost time: 592.0882177078465
+cost time: 232.19642974855742
+Customer 101 is checking out
+start Client 110 at 6513.40150054113
+Customer 110 is selecting item
+Customer 104 is checking out
+cost time: 433.6658918270505
+cost time: 379.7451239578231
+start Client 111 at 6608.45174305986
+Customer 111 is selecting item
+Customer 108 is checking out
+start Client 112 at 6652.9196604113695
+Customer 112 is selecting item
+Customer 110 is checking out
+cost time: 234.0748423687137
+cost time: 173.287020408412
+start Client 113 at 6700.140680920237
+Customer 113 is selecting item
+start Client 114 at 6706.622363266842
+Customer 114 is selecting item
+start Client 115 at 6828.031755650911
+Customer 115 is selecting item
+start Client 116 at 6853.855944546144
+Customer 116 is selecting item
+Customer 109 is checking out
+Customer 115 is checking out
+start Client 117 at 6883.203687043197
+Customer 117 is selecting item
+Customer 111 is checking out
+cost time: 428.1356872106735
+cost time: 69.73597152798538
+Customer 117 is checking out
+cost time: 307.2888345309293
+Customer 112 is checking out
+start Client 118 at 6927.535837522482
+Customer 118 is selecting item
+start Client 119 at 6928.981327820259
+Customer 119 is selecting item
+cost time: 53.59825641141197
+start Client 120 at 6939.9821928697465
+Customer 120 is selecting item
+start Client 121 at 6944.828694270705
+Customer 121 is selecting item
+Customer 118 is checking out
+cost time: 300.05363709568337
+Customer 116 is checking out
+start Client 122 at 6975.328359417099
+Customer 122 is selecting item
+cost time: 51.61837430581909
+start Client 123 at 6988.054570323295
+Customer 123 is selecting item
+cost time: 149.4448229053187
+Customer 122 is checking out
+Customer 120 is checking out
+cost time: 96.90492219594034
+cost time: 142.58219596466643
+start Client 124 at 7091.488770883522
+Customer 124 is selecting item
+Customer 124 is checking out
+start Client 125 at 7159.197751584702
+Customer 125 is selecting item
+Customer 121 is checking out
+cost time: 92.29970285022773
+start Client 126 at 7184.651699431869
+Customer 126 is selecting item
+Customer 123 is checking out
+cost time: 265.30935371485066
+Customer 125 is checking out
+cost time: 229.70679793360705
+cost time: 83.15644912179232
+Customer 114 is checking out
+cost time: 578.5234499957178
+Customer 126 is checking out
+start Client 127 at 7387.68130603082
+Customer 127 is selecting item
+cost time: 205.21825158644242
+Customer 127 is checking out
+Customer 119 is checking out
+cost time: 41.08835696458209
+cost time: 505.8338731135236
+start Client 128 at 7458.623475556986
+Customer 128 is selecting item
+start Client 129 at 7487.843364909101
+Customer 129 is selecting item
+Customer 113 is checking out
+start Client 130 at 7533.649920676317
+Customer 130 is selecting item
+cost time: 833.9339344187856
+start Client 131 at 7620.308444960513
+Customer 131 is selecting item
+Customer 131 is checking out
+cost time: 35.211391729195384
+start Client 132 at 7672.155459615636
+Customer 132 is selecting item
+start Client 133 at 7727.131166894387
+Customer 133 is selecting item
+start Client 134 at 7739.764494136959
+Customer 134 is selecting item
+start Client 135 at 7740.192569246776
+Customer 135 is selecting item
+Customer 128 is checking out
+Customer 135 is checking out
+cost time: 341.98688562430834
+Customer 132 is checking out
+cost time: 76.91011228160369
+start Client 136 at 7843.6925732983755
+Customer 136 is selecting item
+cost time: 173.62267316634734
+Customer 130 is checking out
+start Client 137 at 7877.527656465751
+Customer 137 is selecting item
+cost time: 353.67342611721324
+start Client 138 at 7901.146274112447
+Customer 138 is selecting item
+start Client 139 at 7916.172074470311
+Customer 139 is selecting item
+Customer 136 is checking out
+Customer 133 is checking out
+start Client 140 at 7932.2555500555245
+Customer 140 is selecting item
+cost time: 102.85884900582641
+cost time: 230.4944223886987
+Customer 134 is checking out
+cost time: 261.3982554749873
+start Client 141 at 8027.122216045497
+Customer 141 is selecting item
+start Client 142 at 8039.189641639235
+Customer 142 is selecting item
+Customer 137 is checking out
+start Client 143 at 8062.943558321718
+Customer 143 is selecting item
+cost time: 200.33124126450548
+start Client 144 at 8121.8282528503005
+Customer 144 is selecting item
+Customer 139 is checking out
+cost time: 237.35614156207157
+Customer 138 is checking out
+Customer 144 is checking out
+cost time: 286.8553274156702
+cost time: 69.16237590310084
+start Client 145 at 8221.236500971818
+Customer 145 is selecting item
+start Client 146 at 8250.411638772812
+Customer 146 is selecting item
+start Client 147 at 8265.565808042214
+Customer 147 is selecting item
+start Client 148 at 8297.125584271207
+Customer 148 is selecting item
+Customer 148 is checking out
+Customer 145 is checking out
+cost time: 30.237344920142277
+Customer 129 is checking out
+start Client 149 at 8340.01008202412
+Customer 149 is selecting item
+cost time: 122.83610551151105
+cost time: 879.3249314576997
+Customer 146 is checking out
+Customer 141 is checking out
+cost time: 203.90501256218886
+start Client 150 at 8473.050274172192
+Customer 150 is selecting item
+cost time: 456.0759280305874
+start Client 151 at 8511.608087737306
+Customer 151 is selecting item
+Customer 151 is checking out
+Customer 147 is checking out
+Customer 150 is checking out
+start Client 152 at 8571.315921854879
+Customer 152 is selecting item
+cost time: 65.69451145560015
+Customer 143 is checking out
+cost time: 316.5323976952641
+cost time: 113.54631796956164
+cost time: 544.359040871188
+Customer 149 is checking out
+start Client 153 at 8635.060677371492
+Customer 153 is selecting item
+start Client 154 at 8644.298949751663
+Customer 154 is selecting item
+cost time: 320.27905544789974
+Customer 154 is checking out
+start Client 155 at 8700.64661262864
+Customer 155 is selecting item
+cost time: 77.31174102907062
+Customer 155 is checking out
+cost time: 51.256930413732334
+start Client 156 at 8798.984739539432
+Customer 156 is selecting item
+Customer 153 is checking out
+start Client 157 at 8818.245520917386
+Customer 157 is selecting item
+Customer 152 is checking out
+cost time: 197.84411471896783
+cost time: 281.688176019672
+Customer 140 is checking out
+cost time: 955.0401800310028
+start Client 158 at 8931.68364664883
+Customer 158 is selecting item
+start Client 159 at 8970.884690924033
+Customer 159 is selecting item
+start Client 160 at 8984.673905898428
+Customer 160 is selecting item
+Customer 157 is checking out
+cost time: 300.60329580652615
+start Client 161 at 9146.14132614036
+Customer 161 is selecting item
+Customer 156 is checking out
+Customer 158 is checking out
+Customer 159 is checking out
+cost time: 414.4158104362632
+start Client 162 at 9222.692684918964
+Customer 162 is selecting item
+cost time: 292.6561239042494
+cost time: 262.4140803230839
+Customer 142 is checking out
+start Client 163 at 9320.058185208934
+Customer 163 is selecting item
+Customer 163 is checking out
+cost time: 1299.3323364546131
+cost time: 37.790840990594006
+Customer 162 is checking out
+start Client 164 at 9429.759031035572
+Customer 164 is selecting item
+cost time: 236.63079090193605
+Customer 161 is checking out
+start Client 165 at 9572.859502850477
+Customer 165 is selecting item
+Customer 160 is checking out
+Customer 164 is checking out
+cost time: 448.6531032205803
+Customer 165 is checking out
+cost time: 632.1838506463355
+start Client 166 at 9618.77101979428
+Customer 166 is selecting item
+cost time: 191.1851912799666
+cost time: 67.94417489559783
+Customer 166 is checking out
+start Client 167 at 9647.191038159048
+Customer 167 is selecting item
+cost time: 55.63900305604511
+start Client 168 at 9677.453455102968
+Customer 168 is selecting item
+Customer 167 is checking out
+cost time: 186.64190751208298
+start Client 169 at 9848.99170314354
+Customer 169 is selecting item
+start Client 170 at 9859.284294232639
+Customer 170 is selecting item
+Customer 169 is checking out
+start Client 171 at 9918.026847553898
+Customer 171 is selecting item
+cost time: 85.27942534262365
+start Client 172 at 9944.77651828482
+Customer 172 is selecting item
+Customer 170 is checking out
+Customer 172 is checking out
+cost time: 130.76806336653863
+cost time: 73.40064607697059
+start Client 173 at 10027.160981534398
+Customer 173 is selecting item
+Customer 168 is checking out
+Customer 173 is checking out
+start Client 174 at 10083.298826601229
+Customer 174 is selecting item
+start Client 175 at 10092.594369918825
+Customer 175 is selecting item
+cost time: 422.5390927015869
+cost time: 76.04801019502338
+start Client 176 at 10125.446865862607
+Customer 176 is selecting item
+start Client 177 at 10129.637010683615
+Customer 177 is selecting item
+start Client 178 at 10135.913509837135
+Customer 178 is selecting item
+Customer 177 is checking out
+cost time: 68.77942009522667
+Customer 174 is checking out
+Customer 178 is checking out
+cost time: 152.46424940587167
+cost time: 105.17309198025396
+Customer 176 is checking out
+start Client 179 at 10266.401254739772
+Customer 179 is selecting item
+start Client 180 at 10279.438815155443
+Customer 180 is selecting item
+cost time: 155.40675153383563
+start Client 181 at 10328.896490252358
+Customer 181 is selecting item
+start Client 182 at 10343.17704071795
+Customer 182 is selecting item
+start Client 183 at 10361.519647772766
+Customer 183 is selecting item
+Customer 181 is checking out
+cost time: 102.7642592314296
+start Client 184 at 10436.950206474718
+Customer 184 is selecting item
+Customer 175 is checking out
+Customer 180 is checking out
+cost time: 408.95352470931175
+cost time: 237.53680320651438
+Customer 179 is checking out
+Customer 183 is checking out
+cost time: 283.04994912431175
+cost time: 207.04621834060708
+start Client 185 at 10577.115276641762
+Customer 185 is selecting item
+start Client 186 at 10616.381656217773
+Customer 186 is selecting item
+Customer 184 is checking out
+Customer 185 is checking out
+cost time: 246.1282113695579
+start Client 187 at 10690.411202791829
+Customer 187 is selecting item
+cost time: 134.27828842232702
+start Client 188 at 10727.269136069566
+Customer 188 is selecting item
+Customer 182 is checking out
+cost time: 433.3516834319307
+Customer 186 is checking out
+start Client 189 at 10782.989443520173
+Customer 189 is selecting item
+Customer 189 is checking out
+Customer 187 is checking out
+cost time: 196.38415586852352
+start Client 190 at 10812.801931669062
+Customer 190 is selecting item
+cost time: 35.19376475311401
+cost time: 130.17957906386982
+Customer 188 is checking out
+start Client 191 at 10876.12564487934
+Customer 191 is selecting item
+Customer 190 is checking out
+cost time: 159.8018120128072
+start Client 192 at 10896.75226761053
+Customer 192 is selecting item
+start Client 193 at 10903.89040772464
+Customer 193 is selecting item
+cost time: 93.8159478946036
+Customer 193 is checking out
+start Client 194 at 10937.456688030934
+Customer 194 is selecting item
+cost time: 42.16678327470618
+Customer 171 is checking out
+cost time: 1070.6714826315347
+start Client 195 at 10993.456534749534
+Customer 195 is selecting item
+start Client 196 at 10999.362161285742
+Customer 196 is selecting item
+start Client 197 at 11005.932444811657
+Customer 197 is selecting item
+Customer 192 is checking out
+cost time: 150.7364400878323
+Customer 195 is checking out
+cost time: 91.9747861257656
+Customer 196 is checking out
+cost time: 132.30255204405876
+start Client 198 at 11139.33397692341
+Customer 198 is selecting item
+Customer 197 is checking out
+start Client 199 at 11179.456330790219
+Customer 199 is selecting item
+cost time: 189.499727904471
+start Client 200 at 11270.411403690536
+Customer 200 is selecting item
+Customer 198 is checking out
+Customer 200 is checking out
+cost time: 192.14773703561877
+start Client 201 at 11343.292236252757
+Customer 201 is selecting item
+start Client 202 at 11356.048313531115
+Customer 202 is selecting item
+cost time: 86.25114306173418
+Customer 194 is checking out
+start Client 203 at 11459.08596691653
+Customer 203 is selecting item
+cost time: 523.7942325463118
+Customer 201 is checking out
+cost time: 152.1795782020945
+Customer 191 is checking out
+cost time: 659.7671400674863
+Customer 202 is checking out
+Customer 199 is checking out
+cost time: 333.7987609991669
+start Client 204 at 11692.048488013694
+Customer 204 is selecting item
+cost time: 513.9605620455968
+Customer 203 is checking out
+start Client 205 at 11738.000074789346
+Customer 205 is selecting item
+cost time: 294.7162663115687
+Customer 204 is checking out
+cost time: 114.82213575548667
+start Client 206 at 11855.010629121003
+Customer 206 is selecting item
+start Client 207 at 11891.407592728465
+Customer 207 is selecting item
+Customer 205 is checking out
+cost time: 188.9477439019538
+start Client 208 at 11961.072090275113
+Customer 208 is selecting item
+Customer 206 is checking out
+start Client 209 at 11987.20944071651
+Customer 209 is selecting item
+cost time: 158.95907405781145
+Customer 209 is checking out
+start Client 210 at 12059.105143993347
+Customer 210 is selecting item
+cost time: 95.7217817122546
+start Client 211 at 12095.55341684927
+Customer 211 is selecting item
+start Client 212 at 12114.297942246678
+Customer 212 is selecting item
+Customer 208 is checking out
+start Client 213 at 12142.292230975889
+Customer 213 is selecting item
+Customer 211 is checking out
+cost time: 196.1144378644858
+start Client 214 at 12165.404259568739
+Customer 214 is selecting item
+cost time: 79.4720414806834
+Customer 214 is checking out
+Customer 210 is checking out
+cost time: 55.28377829393685
+cost time: 173.61537076416244
+Customer 207 is checking out
+Customer 212 is checking out
+start Client 215 at 12316.52347288081
+Customer 215 is selecting item
+start Client 216 at 12321.9760842087
+Customer 216 is selecting item
+cost time: 442.0422091151959
+cost time: 229.6622491655744
+start Client 217 at 12356.000850053972
+Customer 217 is selecting item
+start Client 218 at 12356.934302666745
+Customer 218 is selecting item
+start Client 219 at 12382.608624267792
+Customer 219 is selecting item
+Customer 215 is checking out
+Customer 216 is checking out
+cost time: 123.02717507946727
+cost time: 131.5760716717814
+Customer 218 is checking out
+start Client 220 at 12493.757319317952
+Customer 220 is selecting item
+start Client 221 at 12509.66832287126
+Customer 221 is selecting item
+cost time: 155.83021570892197
+start Client 222 at 12580.226519032316
+Customer 222 is selecting item
+Customer 220 is checking out
+Customer 213 is checking out
+cost time: 144.7653578647005
+cost time: 511.9134103804972
+start Client 223 at 12679.634451542674
+Customer 223 is selecting item
+start Client 224 at 12695.189192416443
+Customer 224 is selecting item
+start Client 225 at 12739.570275974698
+Customer 225 is selecting item
+Customer 217 is checking out
+Customer 219 is checking out
+cost time: 433.66657540070446
+cost time: 424.1816364552833
+Customer 222 is checking out
+start Client 226 at 12821.722856658684
+Customer 226 is selecting item
+cost time: 265.78840484369175
+start Client 227 at 12853.220472124338
+Customer 227 is selecting item
+Customer 225 is checking out
+Customer 223 is checking out
+Customer 227 is checking out
+start Client 228 at 12924.713870713156
+Customer 228 is selecting item
+cost time: 190.46102302538748
+Customer 224 is checking out
+cost time: 255.99197205694327
+cost time: 83.9558117076358
+Customer 226 is checking out
+start Client 229 at 12943.806401204176
+Customer 229 is selecting item
+cost time: 264.8421065836428
+cost time: 150.09777983995627
+start Client 230 at 12991.620092538005
+Customer 230 is selecting item
+Customer 221 is checking out
+start Client 231 at 13014.93018786764
+Customer 231 is selecting item
+cost time: 531.2529845823356
+start Client 232 at 13044.518214739957
+Customer 232 is selecting item
+start Client 233 at 13047.663191527608
+Customer 233 is selecting item
+Customer 231 is checking out
+start Client 234 at 13065.426224923836
+Customer 234 is selecting item
+cost time: 68.5587769587546
+start Client 235 at 13140.256734981258
+Customer 235 is selecting item
+Customer 228 is checking out
+Customer 230 is checking out
+Customer 229 is checking out
+cost time: 281.98964186401463
+cost time: 222.5493698746959
+cost time: 280.0632749484266
+start Client 236 at 13236.247053395418
+Customer 236 is selecting item
+Customer 234 is checking out
+Customer 235 is checking out
+cost time: 208.73240657153656
+cost time: 137.16350730768863
+start Client 237 at 13280.913545786363
+Customer 237 is selecting item
+Customer 236 is checking out
+Customer 232 is checking out
+cost time: 81.5857413930662
+cost time: 288.2537188866445
+start Client 238 at 13376.870926682988
+Customer 238 is selecting item
+Customer 233 is checking out
+cost time: 388.50161972494607
+Customer 238 is checking out
+start Client 239 at 13487.470920823333
+Customer 239 is selecting item
+cost time: 124.8618543813136
+Customer 237 is checking out
+cost time: 294.5025418701225
+start Client 240 at 13695.93572749306
+Customer 240 is selecting item
+start Client 241 at 13711.582287831929
+Customer 241 is selecting item
+start Client 242 at 13768.020740865824
+Customer 242 is selecting item
+start Client 243 at 13795.519316437043
+Customer 243 is selecting item
+Customer 241 is checking out
+start Client 244 at 13894.399918583047
+Customer 244 is selecting item
+cost time: 208.57785332441745
+Customer 240 is checking out
+Customer 244 is checking out
+Customer 243 is checking out
+cost time: 262.1153013474068
+start Client 245 at 13960.191977833056
+Customer 245 is selecting item
+cost time: 69.84269545127245
+cost time: 183.65638556741033
+start Client 246 at 14037.523363806811
+Customer 246 is selecting item
+Customer 246 is checking out
+cost time: 55.81262035753025
+Customer 245 is checking out
+cost time: 201.5854039240894
+start Client 247 at 14180.103440253832
+Customer 247 is selecting item
+start Client 248 at 14182.178590841968
+Customer 248 is selecting item
+Customer 242 is checking out
+start Client 249 at 14238.34211660709
+Customer 249 is selecting item
+Customer 248 is checking out
+cost time: 481.3876640475428
+start Client 250 at 14256.512500361754
+Customer 250 is selecting item
+start Client 251 at 14268.258390237173
+Customer 251 is selecting item
+cost time: 90.09681125328098
+start Client 252 at 14276.570626568237
+Customer 252 is selecting item
+Customer 239 is checking out
+Customer 249 is checking out
+Customer 247 is checking out
+cost time: 829.0122914592575
+cost time: 79.09420765394498
+cost time: 144.90174102234232
+start Client 253 at 14364.122381150622
+Customer 253 is selecting item
+start Client 254 at 14372.126583170364
+Customer 254 is selecting item
+Customer 252 is checking out
+Customer 251 is checking out
+Customer 253 is checking out
+cost time: 201.2150930383632
+cost time: 230.97724815438414
+cost time: 136.40275918719817
+Customer 254 is checking out
+start Client 255 at 14549.316924982382
+Customer 255 is selecting item
+cost time: 206.65177724868408
+start Client 256 at 14583.217462061506
+Customer 256 is selecting item
+start Client 257 at 14593.450350592491
+Customer 257 is selecting item
+Customer 250 is checking out
+cost time: 373.5667358191422
+start Client 258 at 14692.729381774776
+Customer 258 is selecting item
+Customer 258 is checking out
+start Client 259 at 14703.08929691499
+Customer 259 is selecting item
+start Client 260 at 14720.955879568903
+Customer 260 is selecting item
+Customer 255 is checking out
+cost time: 34.41503986068892
+start Client 261 at 14745.71417594139
+Customer 261 is selecting item
+Customer 261 is checking out
+cost time: 205.64086365204275
+cost time: 32.65798605789132
+Customer 256 is checking out
+Customer 260 is checking out
+start Client 262 at 14810.259237966427
+Customer 262 is selecting item
+start Client 263 at 14819.472900549343
+Customer 263 is selecting item
+cost time: 250.5624562102421
+cost time: 113.46343477973824
+Customer 263 is checking out
+cost time: 70.75269806543474
+start Client 264 at 14921.506479574507
+Customer 264 is selecting item
+Customer 257 is checking out
+cost time: 388.0682184382622
+start Client 265 at 14983.313412570602
+Customer 265 is selecting item
+start Client 266 at 15001.052037184121
+Customer 266 is selecting item
+start Client 267 at 15019.989262224846
+Customer 267 is selecting item
+Customer 262 is checking out
+Customer 264 is checking out
+cost time: 245.88122348170873
+cost time: 160.72487314029058
+Customer 266 is checking out
+Customer 267 is checking out
+cost time: 144.3739396566707
+Customer 259 is checking out
+cost time: 146.87874734494108
+cost time: 473.32123001156833
+start Client 268 at 15307.839186335192
+Customer 268 is selecting item
+start Client 269 at 15342.105360426274
+Customer 269 is selecting item
+start Client 270 at 15392.771232541785
+Customer 270 is selecting item
+start Client 271 at 15416.509330307013
+Customer 271 is selecting item
+Customer 269 is checking out
+cost time: 105.90425059562222
+start Client 272 at 15452.840533810944
+Customer 272 is selecting item
+Customer 268 is checking out
+Customer 271 is checking out
+cost time: 211.86803390263776
+cost time: 122.35412861587974
+start Client 273 at 15558.192751087076
+Customer 273 is selecting item
+Customer 265 is checking out
+cost time: 622.0070280157834
+start Client 274 at 15616.290330143516
+Customer 274 is selecting item
+start Client 275 at 15657.019507015784
+Customer 275 is selecting item
+Customer 274 is checking out
+cost time: 76.67724381224252
+start Client 276 at 15716.932284986495
+Customer 276 is selecting item
+start Client 277 at 15717.520467114675
+Customer 277 is selecting item
+Customer 270 is checking out
+cost time: 372.4881092038486
+Customer 277 is checking out
+cost time: 80.83705874438783
+start Client 278 at 15870.94490729171
+Customer 278 is selecting item
+start Client 279 at 15887.194164454602
+Customer 279 is selecting item
+Customer 272 is checking out
+start Client 280 at 15905.654564692322
+Customer 280 is selecting item
+Customer 278 is checking out
+start Client 281 at 15921.746959334141
+Customer 281 is selecting item
+cost time: 471.26944042565265
+cost time: 68.47072038286024
+Customer 273 is checking out
+Customer 281 is checking out
+Customer 279 is checking out
+start Client 282 at 15979.384805391075
+Customer 282 is selecting item
+cost time: 422.53180104508465
+Customer 275 is checking out
+cost time: 76.26141690850272
+cost time: 116.7556880926495
+cost time: 353.7050451163759
+Customer 282 is checking out
+cost time: 139.5944424739937
+start Client 283 at 16126.04832675227
+Customer 283 is selecting item
+start Client 284 at 16131.376602435234
+Customer 284 is selecting item
+start Client 285 at 16162.737579533241
+Customer 285 is selecting item
+Customer 283 is checking out
+Customer 280 is checking out
+cost time: 82.64784429362226
+cost time: 309.6396472784327
+Customer 276 is checking out
+start Client 286 at 16275.309602402902
+Customer 286 is selecting item
+cost time: 581.5821172102878
+Customer 284 is checking out
+start Client 287 at 16325.566237830733
+Customer 287 is selecting item
+cost time: 207.06822472281965
+Customer 287 is checking out
+Customer 285 is checking out
+cost time: 54.85290257404813
+cost time: 224.20626872401772
+Customer 286 is checking out
+start Client 288 at 16512.706267970912
+Customer 288 is selecting item
+cost time: 241.01835611200477
+start Client 289 at 16591.993810422213
+Customer 289 is selecting item
+start Client 290 at 16594.070351318413
+Customer 290 is selecting item
+Customer 290 is checking out
+Customer 289 is checking out
+cost time: 126.37314186908407
+start Client 291 at 16732.71727025422
+Customer 291 is selecting item
+start Client 292 at 16735.925519055443
+Customer 292 is selecting item
+cost time: 147.3137787493106
+Customer 291 is checking out
+start Client 293 at 16784.123818972737
+Customer 293 is selecting item
+cost time: 53.80032135191141
+Customer 292 is checking out
+start Client 294 at 16887.15527708241
+Customer 294 is selecting item
+cost time: 151.31297293927128
+Customer 294 is checking out
+start Client 295 at 16934.36224327688
+Customer 295 is selecting item
+start Client 296 at 16939.806585918977
+Customer 296 is selecting item
+cost time: 76.89355436533879
+Customer 295 is checking out
+start Client 297 at 16988.34039197125
+Customer 297 is selecting item
+cost time: 66.86865248935283
+start Client 298 at 17003.46665665733
+Customer 298 is selecting item
+Customer 297 is checking out
+cost time: 67.22642193386491
+start Client 299 at 17079.675785361324
+Customer 299 is selecting item
+Customer 296 is checking out
+start Client 300 at 17126.724645749728
+Customer 300 is selecting item
+cost time: 192.80110930868614
+start Client 301 at 17133.151829476617
+Customer 301 is selecting item
+Customer 299 is checking out
+Customer 300 is checking out
+cost time: 97.87839246261501
+cost time: 80.45742538788181
+start Client 302 at 17283.89006772823
+Customer 302 is selecting item
+start Client 303 at 17297.607930343685
+Customer 303 is selecting item
+start Client 304 at 17331.765048116384
+Customer 304 is selecting item
+Customer 302 is checking out
+Customer 304 is checking out
+start Client 305 at 17363.7062677572
+Customer 305 is selecting item
+Customer 293 is checking out
+cost time: 92.82025947359216
+cost time: 53.512165385353
+start Client 306 at 17397.28051298537
+Customer 306 is selecting item
+cost time: 614.4244118136085
+start Client 307 at 17429.90231829171
+Customer 307 is selecting item
+Customer 305 is checking out
+Customer 306 is checking out
+Customer 307 is checking out
+start Client 308 at 17474.392003455137
+Customer 308 is selecting item
+cost time: 114.2287968886667
+cost time: 85.7451070039424
+start Client 309 at 17483.06178012195
+Customer 309 is selecting item
+cost time: 66.49540858420369
+start Client 310 at 17506.04192383838
+Customer 310 is selecting item
+Customer 303 is checking out
+cost time: 255.95760571962091
+Customer 308 is checking out
+start Client 311 at 17563.37162664019
+Customer 311 is selecting item
+cost time: 114.69377308031835
+start Client 312 at 17605.681969803583
+Customer 312 is selecting item
+Customer 311 is checking out
+Customer 310 is checking out
+cost time: 130.22444012216874
+Customer 288 is checking out
+start Client 313 at 17700.272612749224
+Customer 313 is selecting item
+cost time: 199.08176027117952
+cost time: 1211.6428701364785
+start Client 314 at 17790.767332023446
+Customer 314 is selecting item
+start Client 315 at 17879.988825531655
+Customer 315 is selecting item
+start Client 316 at 17954.559246635905
+Customer 316 is selecting item
+Customer 316 is checking out
+Customer 309 is checking out
+cost time: 118.95082350440498
+Customer 315 is checking out
+cost time: 618.1650626938426
+cost time: 238.54771415888536
+Customer 301 is checking out
+Customer 314 is checking out
+cost time: 1065.9571580217998
+cost time: 423.0196827796608
+start Client 317 at 18239.84639448609
+Customer 317 is selecting item
+start Client 318 at 18287.409927439727
+Customer 318 is selecting item
+Customer 312 is checking out
+Customer 313 is checking out
+start Client 319 at 18335.130223228054
+Customer 319 is selecting item
+cost time: 746.5095036459606
+cost time: 661.6021375281198
+start Client 320 at 18378.007320217876
+Customer 320 is selecting item
+start Client 321 at 18419.86486561865
+Customer 321 is selecting item
+Customer 320 is checking out
+Customer 318 is checking out
+start Client 322 at 18501.213671510613
+Customer 322 is selecting item
+cost time: 136.65665598853593
+start Client 323 at 18527.535192034764
+Customer 323 is selecting item
+Customer 298 is checking out
+cost time: 242.06721708441546
+start Client 324 at 18530.23350998389
+Customer 324 is selecting item
+cost time: 1554.7840926303434
+Customer 323 is checking out
+Customer 322 is checking out
+start Client 325 at 18573.115205869603
+Customer 325 is selecting item
+Customer 324 is checking out
+cost time: 62.54807115782751
+cost time: 93.72818785989875
+Customer 325 is checking out
+cost time: 78.07686288736659
+cost time: 60.682138777145155
+start Client 326 at 18726.90166987756
+Customer 326 is selecting item
+start Client 327 at 18770.17322220944
+Customer 327 is selecting item
+start Client 328 at 18830.61579369717
+Customer 328 is selecting item
+Customer 326 is checking out
+Customer 328 is checking out
+Customer 327 is checking out
+cost time: 217.88592665220494
+cost time: 126.70336030296676
+start Client 329 at 18963.562781304634
+Customer 329 is selecting item
+start Client 330 at 18967.0828462785
+Customer 330 is selecting item
+Customer 319 is checking out
+Customer 317 is checking out
+cost time: 199.33173365171024
+cost time: 662.4353178472884
+cost time: 759.5017894156081
+Customer 330 is checking out
+cost time: 65.7994498863518
+start Client 331 at 19065.143149651358
+Customer 331 is selecting item
+Customer 329 is checking out
+cost time: 187.23750986856248
+Customer 331 is checking out
+cost time: 172.86426701196615
+start Client 332 at 19301.184822141135
+Customer 332 is selecting item
+start Client 333 at 19330.70232666007
+Customer 333 is selecting item
+Customer 332 is checking out
+cost time: 66.27355245995568
+start Client 334 at 19379.694341004266
+Customer 334 is selecting item
+start Client 335 at 19385.79492722252
+Customer 335 is selecting item
+start Client 336 at 19389.633108103277
+Customer 336 is selecting item
+Customer 336 is checking out
+cost time: 56.95956272020703
+Customer 335 is checking out
+cost time: 122.40478811393405
+start Client 337 at 19548.643598363804
+Customer 337 is selecting item
+start Client 338 at 19575.304871934484
+Customer 338 is selecting item
+start Client 339 at 19619.50510008543
+Customer 339 is selecting item
+start Client 340 at 19638.46391736586
+Customer 340 is selecting item
+start Client 341 at 19668.881502608565
+Customer 341 is selecting item
+Customer 338 is checking out
+start Client 342 at 19704.295359224172
+Customer 342 is selecting item
+cost time: 129.76180169735017
+Customer 340 is checking out
+start Client 343 at 19711.512070846387
+Customer 343 is selecting item
+Customer 321 is checking out
+cost time: 102.85943209606194
+start Client 344 at 19749.329769207572
+Customer 344 is selecting item
+cost time: 1331.841910822921
+Customer 343 is checking out
+Customer 337 is checking out
+Customer 334 is checking out
+cost time: 128.35234719379878
+cost time: 294.67257668965976
+cost time: 483.68876176032063
+start Client 345 at 19864.680101039063
+Customer 345 is selecting item
+Customer 342 is checking out
+start Client 346 at 19904.822068787715
+Customer 346 is selecting item
+cost time: 207.29642314053126
+start Client 347 at 19949.11472314592
+Customer 347 is selecting item
+Customer 344 is checking out
+cost time: 266.50233694674534
+Customer 345 is checking out
+Customer 339 is checking out
+cost time: 282.1325784996552
+cost time: 540.8093241682
+Customer 346 is checking out
+start Client 348 at 20180.273182871697
+Customer 348 is selecting item
+start Client 349 at 20193.04482904568
+Customer 349 is selecting item
+Customer 347 is checking out
+cost time: 297.5890635321157
+cost time: 282.21903417695285
+start Client 350 at 20278.173527192586
+Customer 350 is selecting item
+Customer 341 is checking out
+Customer 349 is checking out
+start Client 351 at 20310.22063244046
+Customer 351 is selecting item
+cost time: 650.8484588115134
+cost time: 144.07153696418754
+Customer 348 is checking out
+start Client 352 at 20355.137244175065
+Customer 352 is selecting item
+start Client 353 at 20372.632528968355
+Customer 353 is selecting item
+cost time: 202.17594305882085
+Customer 352 is checking out
+Customer 353 is checking out
+start Client 354 at 20393.849355535887
+Customer 354 is selecting item
+cost time: 62.47160719070234
+cost time: 49.59667261575305
+start Client 355 at 20444.288455807913
+Customer 355 is selecting item
+start Client 356 at 20512.44573585927
+Customer 356 is selecting item
+Customer 351 is checking out
+Customer 356 is checking out
+cost time: 415.0854714240122
+cost time: 224.6468332550903
+start Client 357 at 20758.34755780573
+Customer 357 is selecting item
+start Client 358 at 20767.44066873476
+Customer 358 is selecting item
+Customer 333 is checking out
+cost time: 1469.0877883922913
+Customer 358 is checking out
+start Client 359 at 20841.67603219091
+Customer 359 is selecting item
+Customer 350 is checking out
+Customer 357 is checking out
+start Client 360 at 20858.59908619174
+Customer 360 is selecting item
+cost time: 95.9768291017972
+start Client 361 at 20866.026686440782
+Customer 361 is selecting item
+cost time: 603.8275780809563
+cost time: 126.69679751831791
+start Client 362 at 20897.78670613138
+Customer 362 is selecting item
+Customer 355 is checking out
+Customer 354 is checking out
+cost time: 511.6953601932182
+cost time: 575.8746214796702
+start Client 363 at 21123.108043426146
+Customer 363 is selecting item
+Customer 362 is checking out
+cost time: 295.8555875614293
+start Client 364 at 21205.571820459794
+Customer 364 is selecting item
+Customer 364 is checking out
+start Client 365 at 21291.2895675668
+Customer 365 is selecting item
+Customer 365 is checking out
+cost time: 103.52238488836156
+cost time: 35.48240657353017
+Customer 361 is checking out
+cost time: 561.7437531541436
+start Client 366 at 21450.2964915666
+Customer 366 is selecting item
+start Client 367 at 21462.793293378098
+Customer 367 is selecting item
+Customer 359 is checking out
+cost time: 664.2352656542098
+Customer 363 is checking out
+start Client 368 at 21541.760266045992
+Customer 368 is selecting item
+cost time: 421.0794305834461
+start Client 369 at 21579.047147904395
+Customer 369 is selecting item
+start Client 370 at 21582.985067457947
+Customer 370 is selecting item
+Customer 366 is checking out
+Customer 367 is checking out
+start Client 371 at 21614.992231268552
+Customer 371 is selecting item
+start Client 372 at 21623.458990200546
+Customer 372 is selecting item
+start Client 373 at 21627.733932427796
+Customer 373 is selecting item
+cost time: 178.6608423628095
+cost time: 181.19502974591887
+start Client 374 at 21650.150299796336
+Customer 374 is selecting item
+start Client 375 at 21711.682768941133
+Customer 375 is selecting item
+Customer 369 is checking out
+start Client 376 at 21728.251392701754
+Customer 376 is selecting item
+cost time: 166.80568062399834
+Customer 373 is checking out
+Customer 370 is checking out
+Customer 371 is checking out
+cost time: 161.18794524573968
+Customer 375 is checking out
+cost time: 210.9542721162179
+Customer 376 is checking out
+cost time: 188.828403163232
+Customer 360 is checking out
+cost time: 107.23910873240311
+cost time: 95.68794687241098
+start Client 377 at 21831.990283163897
+Customer 377 is selecting item
+cost time: 979.948266772124
+Customer 377 is checking out
+cost time: 51.63974980385319
+Customer 368 is checking out
+cost time: 381.4627822844013
+Customer 374 is checking out
+cost time: 368.35990101881544
+start Client 378 at 22022.400821992458
+Customer 378 is selecting item
+start Client 379 at 22028.34676828579
+Customer 379 is selecting item
+start Client 380 at 22044.689842105014
+Customer 380 is selecting item
+start Client 381 at 22058.9194375314
+Customer 381 is selecting item
+Customer 372 is checking out
+start Client 382 at 22117.32265642566
+Customer 382 is selecting item
+cost time: 506.367188270724
+Customer 378 is checking out
+start Client 383 at 22161.20620830185
+Customer 383 is selecting item
+cost time: 139.55525499943906
+Customer 382 is checking out
+cost time: 85.63460145170029
+Customer 380 is checking out
+Customer 379 is checking out
+Customer 381 is checking out
+cost time: 196.0435992160128
+cost time: 220.05441461283772
+cost time: 192.3704154253246
+start Client 384 at 22352.77049237974
+Customer 384 is selecting item
+start Client 385 at 22410.663630337112
+Customer 385 is selecting item
+Customer 383 is checking out
+start Client 386 at 22458.050949578224
+Customer 386 is selecting item
+cost time: 308.2830463334212
+start Client 387 at 22525.114775088165
+Customer 387 is selecting item
+start Client 388 at 22540.324501515068
+Customer 388 is selecting item
+start Client 389 at 22563.88511332732
+Customer 389 is selecting item
+start Client 390 at 22567.158882337615
+Customer 390 is selecting item
+Customer 385 is checking out
+start Client 391 at 22612.08452508214
+Customer 391 is selecting item
+cost time: 205.7365908467691
+Customer 390 is checking out
+Customer 389 is checking out
+cost time: 224.71431364490127
+cost time: 245.30437241699474
+start Client 392 at 22864.27487618157
+Customer 392 is selecting item
+start Client 393 at 22865.243272032207
+Customer 393 is selecting item
+Customer 393 is checking out
+start Client 394 at 22889.469968309837
+Customer 394 is selecting item
+cost time: 30.273904768007924
+start Client 395 at 22911.574479298284
+Customer 395 is selecting item
+Customer 388 is checking out
+Customer 386 is checking out
+Customer 384 is checking out
+cost time: 402.3170156883425
+cost time: 501.10746485105483
+cost time: 612.2593160501965
+Customer 391 is checking out
+start Client 396 at 23064.871994019482
+Customer 396 is selecting item
+cost time: 462.461089950968
+Customer 392 is checking out
+start Client 397 at 23099.043966899
+Customer 397 is selecting item
+cost time: 240.6999446122063
+Customer 395 is checking out
+start Client 398 at 23149.90535058915
+Customer 398 is selecting item
+cost time: 266.3450301716148
+Customer 394 is checking out
+cost time: 324.5945476095694
+start Client 399 at 23249.412090669437
+Customer 399 is selecting item
+start Client 400 at 23298.673204537554
+Customer 400 is selecting item
+Customer 396 is checking out
+Customer 398 is checking out
+Customer 397 is checking out
+cost time: 293.03361275281713
+cost time: 225.75182097604556
+cost time: 286.63773678825237
+Customer 399 is checking out
+Customer 400 is checking out
+cost time: 193.36422700991898
+cost time: 174.10133455042524
+start Client 401 at 23483.5831960951
+Customer 401 is selecting item
+start Client 402 at 23554.63044102443
+Customer 402 is selecting item
+Customer 402 is checking out
+cost time: 71.28439809180418
+start Client 403 at 23643.853428100352
+Customer 403 is selecting item
+Customer 401 is checking out
+start Client 404 at 23710.149337288844
+Customer 404 is selecting item
+cost time: 237.5176931575079
+start Client 405 at 23766.494395036098
+Customer 405 is selecting item
+start Client 406 at 23801.877324025354
+Customer 406 is selecting item
+start Client 407 at 23806.766932008733
+Customer 407 is selecting item
+start Client 408 at 23815.867244133577
+Customer 408 is selecting item
+Customer 403 is checking out
+Customer 408 is checking out
+cost time: 247.41429667041302
+cost time: 101.63866507348575
+start Client 409 at 23927.66588943718
+Customer 409 is selecting item
+Customer 404 is checking out
+start Client 410 at 23934.50578646607
+Customer 410 is selecting item
+Customer 405 is checking out
+Customer 409 is checking out
+cost time: 248.40505825194487
+cost time: 206.70580162620172
+cost time: 45.700084326839715
+Customer 406 is checking out
+start Client 411 at 23995.644704912964
+Customer 411 is selecting item
+cost time: 218.59395251281967
+Customer 407 is checking out
+Customer 387 is checking out
+Customer 411 is checking out
+cost time: 344.6370188374349
+cost time: 1637.7651356186543
+cost time: 173.74814466168027
+start Client 412 at 24195.438872830055
+Customer 412 is selecting item
+start Client 413 at 24243.385795222843
+Customer 413 is selecting item
+start Client 414 at 24272.068161908603
+Customer 414 is selecting item
+start Client 415 at 24272.143980720502
+Customer 415 is selecting item
+Customer 410 is checking out
+start Client 416 at 24318.431828413948
+Customer 416 is selecting item
+cost time: 412.62531090459015
+Customer 414 is checking out
+cost time: 129.30697110996334
+Customer 412 is checking out
+Customer 415 is checking out
+start Client 417 at 24442.702918308994
+Customer 417 is selecting item
+Customer 413 is checking out
+cost time: 260.81090869652326
+Customer 417 is checking out
+cost time: 192.0828246266792
+Customer 416 is checking out
+cost time: 231.34213786760301
+cost time: 43.54686321758345
+start Client 418 at 24489.61917935281
+Customer 418 is selecting item
+cost time: 175.79497693323356
+start Client 419 at 24505.518526815446
+Customer 419 is selecting item
+start Client 420 at 24510.803785340384
+Customer 420 is selecting item
+start Client 421 at 24516.143050940635
+Customer 421 is selecting item
+start Client 422 at 24580.01958581264
+Customer 422 is selecting item
+Customer 422 is checking out
+Customer 421 is checking out
+cost time: 71.63609733319026
+cost time: 159.7606798937013
+start Client 423 at 24736.185966876663
+Customer 423 is selecting item
+start Client 424 at 24789.047291917963
+Customer 424 is selecting item
+Customer 424 is checking out
+Customer 423 is checking out
+cost time: 64.213727582508
+cost time: 139.89704316226926
+Customer 419 is checking out
+Customer 418 is checking out
+cost time: 411.1185839596037
+cost time: 456.77052914686647
+start Client 425 at 24952.152156225333
+Customer 425 is selecting item
+Customer 420 is checking out
+cost time: 504.70938146682965
+start Client 426 at 25157.800079041335
+Customer 426 is selecting item
+start Client 427 at 25184.83435336454
+Customer 427 is selecting item
+Customer 426 is checking out
+start Client 428 at 25223.62949851723
+Customer 428 is selecting item
+start Client 429 at 25228.630681783034
+Customer 429 is selecting item
+Customer 425 is checking out
+cost time: 74.31169680114544
+cost time: 307.9517386489824
+Customer 428 is checking out
+cost time: 87.91092409364137
+start Client 430 at 25313.15313326841
+Customer 430 is selecting item
+Customer 429 is checking out
+cost time: 125.426094389426
+Customer 427 is checking out
+cost time: 224.76089724899794
+Customer 430 is checking out
+cost time: 165.93401740276386
+start Client 431 at 25557.605377811713
+Customer 431 is selecting item
+start Client 432 at 25638.049572175074
+Customer 432 is selecting item
+start Client 433 at 25640.727092377845
+Customer 433 is selecting item
+Customer 432 is checking out
+cost time: 46.497794823138975
+start Client 434 at 25735.855925446696
+Customer 434 is selecting item
+Customer 431 is checking out
+cost time: 230.9916997918117
+Customer 433 is checking out
+Customer 434 is checking out
+cost time: 199.29929945187905
+start Client 435 at 25842.011123691176
+Customer 435 is selecting item
+cost time: 114.75627660163445
+start Client 436 at 25899.96982948457
+Customer 436 is selecting item
+start Client 437 at 25966.155894079686
+Customer 437 is selecting item
+start Client 438 at 25979.560548022702
+Customer 438 is selecting item
+start Client 439 at 26051.959904180425
+Customer 439 is selecting item
+start Client 440 at 26071.257186000166
+Customer 440 is selecting item
+start Client 441 at 26071.62775042964
+Customer 441 is selecting item
+Customer 437 is checking out
+Customer 440 is checking out
+Customer 438 is checking out
+cost time: 173.8405508761025
+cost time: 78.24281129274823
+start Client 442 at 26149.82446165083
+Customer 442 is selecting item
+cost time: 175.93830858467845
+Customer 441 is checking out
+cost time: 128.04542908939766
+start Client 443 at 26206.405817151866
+Customer 443 is selecting item
+start Client 444 at 26281.070451372525
+Customer 444 is selecting item
+Customer 436 is checking out
+Customer 439 is checking out
+Customer 444 is checking out
+cost time: 447.8623291393087
+start Client 445 at 26349.625742096123
+Customer 445 is selecting item
+cost time: 301.8207979890394
+cost time: 87.70410661393908
+start Client 446 at 26374.23036634413
+Customer 446 is selecting item
+Customer 435 is checking out
+start Client 447 at 26444.13804492736
+Customer 447 is selecting item
+start Client 448 at 26451.630918203493
+Customer 448 is selecting item
+cost time: 618.7666310347959
+start Client 449 at 26470.321351886723
+Customer 449 is selecting item
+Customer 449 is checking out
+start Client 450 at 26499.476014130923
+Customer 450 is selecting item
+cost time: 44.238443183166964
+Customer 448 is checking out
+Customer 446 is checking out
+Customer 443 is checking out
+start Client 451 at 26549.811769988948
+Customer 451 is selecting item
+cost time: 109.6977256690916
+Customer 445 is checking out
+cost time: 193.71933604191508
+Customer 447 is checking out
+cost time: 364.9780935062845
+Customer 442 is checking out
+cost time: 241.70290177646166
+cost time: 153.81165745868566
+cost time: 451.5594490073199
+start Client 452 at 26602.194636015778
+Customer 452 is selecting item
+start Client 453 at 26603.08447812043
+Customer 453 is selecting item
+start Client 454 at 26622.74448332411
+Customer 454 is selecting item
+start Client 455 at 26744.19263362133
+Customer 455 is selecting item
+Customer 452 is checking out
+Customer 455 is checking out
+cost time: 187.97869698068462
+Customer 453 is checking out
+cost time: 52.5677945221978
+Customer 450 is checking out
+cost time: 219.87509729030717
+cost time: 333.8422672525885
+Customer 454 is checking out
+cost time: 245.74848958960501
+start Client 456 at 26883.96535751244
+Customer 456 is selecting item
+start Client 457 at 26910.98617031793
+Customer 457 is selecting item
+start Client 458 at 26996.396293526646
+Customer 458 is selecting item
+Customer 457 is checking out
+cost time: 134.5306364308526
+start Client 459 at 27092.81290129803
+Customer 459 is selecting item
+start Client 460 at 27198.158844931313
+Customer 460 is selecting item
+Customer 458 is checking out
+cost time: 274.6479357653152
+start Client 461 at 27313.491197075364
+Customer 461 is selecting item
+start Client 462 at 27348.18545345263
+Customer 462 is selecting item
+start Client 463 at 27351.25487901024
+Customer 463 is selecting item
+Customer 459 is checking out
+cost time: 309.16010149701833
+start Client 464 at 27412.60989609321
+Customer 464 is selecting item
+Customer 451 is checking out
+Customer 461 is checking out
+Customer 462 is checking out
+cost time: 899.7621753262283
+cost time: 156.23985702232312
+cost time: 123.28816987929895
+start Client 465 at 27473.922874683707
+Customer 465 is selecting item
+start Client 466 at 27489.186361836582
+Customer 466 is selecting item
+Customer 463 is checking out
+start Client 467 at 27508.544489785367
+Customer 467 is selecting item
+cost time: 180.59337923085695
+Customer 467 is checking out
+cost time: 53.42724159824138
+Customer 464 is checking out
+start Client 468 at 27572.742377827606
+Customer 468 is selecting item
+cost time: 180.02511468781813
+start Client 469 at 27639.055667427827
+Customer 469 is selecting item
+Customer 460 is checking out
+start Client 470 at 27653.33073779849
+Customer 470 is selecting item
+Customer 469 is checking out
+start Client 471 at 27655.913905380774
+Customer 471 is selecting item
+cost time: 471.4289661846051
+cost time: 45.62423048713754
+Customer 468 is checking out
+cost time: 148.60917157229414
+Customer 465 is checking out
+cost time: 281.10138932778136
+start Client 472 at 27897.937661291457
+Customer 472 is selecting item
+start Client 473 at 27898.79907963346
+Customer 473 is selecting item
+Customer 456 is checking out
+Customer 470 is checking out
+cost time: 1059.5587775985623
+cost time: 301.0840347714402
+Customer 472 is checking out
+Customer 473 is checking out
+Customer 466 is checking out
+cost time: 99.12113025548024
+cost time: 122.15030888493493
+cost time: 533.3254898301238
+start Client 474 at 28073.626378014797
+Customer 474 is selecting item
+start Client 475 at 28180.901716012075
+Customer 475 is selecting item
+start Client 476 at 28187.111410048994
+Customer 476 is selecting item
+Customer 476 is checking out
+cost time: 108.5135538785944
+start Client 477 at 28300.4223916649
+Customer 477 is selecting item
+Customer 477 is checking out
+cost time: 45.930579443349416
+Customer 474 is checking out
+start Client 478 at 28527.119165278928
+Customer 478 is selecting item
+cost time: 467.4332132173149
+start Client 479 at 28561.121429782845
+Customer 479 is selecting item
+start Client 480 at 28620.886383899913
+Customer 480 is selecting item
+Customer 475 is checking out
+cost time: 610.7320982514793
+start Client 481 at 28802.427648147197
+Customer 481 is selecting item
+start Client 482 at 28828.213441330572
+Customer 482 is selecting item
+Customer 480 is checking out
+Customer 478 is checking out
+Customer 479 is checking out
+start Client 483 at 28871.408261759312
+Customer 483 is selecting item
+cost time: 254.23318223405295
+cost time: 353.85488739665743
+cost time: 330.5560119409238
+start Client 484 at 28907.54309935366
+Customer 484 is selecting item
+start Client 485 at 28953.25890838062
+Customer 485 is selecting item
+start Client 486 at 29011.607731764918
+Customer 486 is selecting item
+Customer 486 is checking out
+start Client 487 at 29020.051250269582
+Customer 487 is selecting item
+cost time: 32.76838549183594
+Customer 485 is checking out
+Customer 484 is checking out
+cost time: 126.14953999162026
+start Client 488 at 29081.68170089537
+Customer 488 is selecting item
+start Client 489 at 29089.21801752394
+Customer 489 is selecting item
+cost time: 187.68215043701275
+Customer 487 is checking out
+cost time: 106.64273568346471
+start Client 490 at 29134.418833085085
+Customer 490 is selecting item
+Customer 490 is checking out
+cost time: 49.6071850242879
+Customer 483 is checking out
+Customer 482 is checking out
+cost time: 356.87381715498486
+cost time: 404.53336177510937
+start Client 491 at 29262.36981854474
+Customer 491 is selecting item
+Customer 471 is checking out
+start Client 492 at 29277.662008260337
+Customer 492 is selecting item
+cost time: 1648.7704195172664
+Customer 481 is checking out
+Customer 488 is checking out
+cost time: 585.6454612855159
+cost time: 323.30142459480703
+start Client 493 at 29462.03736386693
+Customer 493 is selecting item
+start Client 494 at 29484.721301536767
+Customer 494 is selecting item
+start Client 495 at 29524.33441325893
+Customer 495 is selecting item
+start Client 496 at 29602.31027652387
+Customer 496 is selecting item
+start Client 497 at 29622.826436443607
+Customer 497 is selecting item
+Customer 489 is checking out
+cost time: 574.4143009409199
+Customer 491 is checking out
+cost time: 449.9029864573349
+start Client 498 at 29719.911374950625
+Customer 498 is selecting item
+Customer 495 is checking out
+start Client 499 at 29758.89218769569
+Customer 499 is selecting item
+cost time: 247.48229876067853
+Customer 494 is checking out
+Customer 493 is checking out
+Customer 499 is checking out
+cost time: 400.64061201415825
+cost time: 423.68117248491035
+cost time: 130.19997092827543
+Customer 492 is checking out
+Customer 496 is checking out
+cost time: 759.9422813712081
+Customer 497 is checking out
+cost time: 459.1073192193435
+cost time: 456.41886806809634
+Customer 498 is checking out
+cost time: 401.05867345294246
+Average time cost: 273.57098812098815  s  (单位是秒)
