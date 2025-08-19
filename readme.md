@@ -1,6 +1,6 @@
 使用simpy进行的简单操作系统进程调度测试，测试题目如下：
 
-![image-20250819143642502](D:\vscode_2\zhongnanKaohe\readme.assets\image-20250819143642502.png)
+![image-20250819143642502](.\readme.assets\image-20250819143642502.png)
 
 ### 要求：
 
