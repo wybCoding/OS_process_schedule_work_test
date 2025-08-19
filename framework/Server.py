@@ -27,13 +27,13 @@ class Server:
             self.env.process(self.serveCustomer(customer, completionEvent))
 
     def selectItem(self, customer : Customer):
-        print(f"Customer {customer.id} is selecting item")
+        print(f"{self.env.now}  Customer {customer.id} is selecting item")
 
         # 服从特定的指数分布
         yield self.env.timeout(random.expovariate(self.rate_select))
     def checkout(self, customer : Customer):
         # 结账
-        print(f"Customer {customer.id} is checking out")
+        print(f"{self.env.now}  Customer {customer.id} is checking out")
 
         # 30s
         yield self.env.timeout(self.time_checkout)
@@ -48,10 +48,12 @@ class Server:
         yield self.env.process(self.selectItem(customer))
 
         with self.update_lock.request() as req:
+            print(f"{self.env.now}  The service used now is {self.update_lock.count}")
             # 2. 排队等待
             yield req
             # 3. 结账
             yield self.env.process(self.checkout(customer))
+            print(f"{self.env.now}  Customer {customer.id} is finish")
 
         # 通知客户端处理完毕
         completionEvent.succeed()

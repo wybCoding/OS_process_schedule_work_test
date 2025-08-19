@@ -36,7 +36,7 @@ class WorkLoad:
 
 
             # 启动Client端
-            print(f"start Client {self.clientId} at {self.env.now}")
+            print(f"{self.env.now}  start Client {self.clientId}")
             # 记录Client端事件
             client_events.append(self.env.process(currentClient.run()))
             # 泊松分布等待一段时间(模拟下次用户到来,内部间隔实际服从指数分布)

@@ -38,5 +38,5 @@ class Client:
         self.callbackRecordTime(self.getCostTime())
 
     def getCostTime(self) -> float:
-        print(f"cost time: {self.endTime - self.startTime}")
+        print(f"customer {self.customer.id} cost time: {self.endTime - self.startTime}")
         return self.endTime - self.startTime
